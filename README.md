@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋, I'm Yash
 
-<!--
-**Yash-04-create/Yash-04-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 💻 Interested in AI and Real-world Projects  
+- 📌 Currently working on Road Damage Detection using AI  
+- 🌱 Learning more about Machine Learning & System Design  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yash-04-create&show_icons=true&theme=radical)
+
+---
+
+## 💻 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-04-create&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=Yash-04-create&theme=tokyonight)
+
+---
