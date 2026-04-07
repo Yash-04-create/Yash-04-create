@@ -16,8 +16,3 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=Yash-04-create&theme=tokyonight)
 
 ---
-
-## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=Yash-04-create&theme=tokyonight)
-
----
