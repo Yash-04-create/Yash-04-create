@@ -7,15 +7,9 @@
 
 ---
 
-## 📊 GitHub Stats
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yash-04-create&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yash-04-create&show_icons=true&theme=radical)
 
----
-
-## 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-04-create&layout=compact&theme=tokyonight)
-
----
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Yash-04-create&layout=compact&theme=tokyonight)
 
 ## 🔥 Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=Yash-04-create&theme=tokyonight)
